@@ -6,6 +6,7 @@ Additional Python Libraries Required:
   Selenium Web Driver.
   PY Virtual Display (Optional, only used to run script in a non GUI environment i.e Terminal)
   
+  pip install pyautogui
   pip install pyvirtualdisplay selenium.
  
 Obviously a Proton Mail Account is also required.
